@@ -4,6 +4,7 @@
   "main": "server.js",
   "license": "MIT",
   "dependencies": {
+    "@types/node": "^18.11.2",
     "fastify": "^4.9.2"
   },
   "scripts": {
