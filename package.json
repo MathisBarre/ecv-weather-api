@@ -1,0 +1,12 @@
+{
+  "name": "ecv-weather-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.9.2"
+  },
+  "scripts": {
+    "start": "node server"
+  }
+}
